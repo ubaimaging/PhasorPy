@@ -1,0 +1,10 @@
+README.md
+setup.py
+PhasorPy/__init__.py
+PhasorPy/funciones.py
+PhasorPy/testing.py
+PhasorPy.egg-info/PKG-INFO
+PhasorPy.egg-info/SOURCES.txt
+PhasorPy.egg-info/dependency_links.txt
+PhasorPy.egg-info/requires.txt
+PhasorPy.egg-info/top_level.txt

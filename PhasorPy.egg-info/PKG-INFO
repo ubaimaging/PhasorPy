@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: PhasorPy
+Version: 0.0.2
+Summary: This is a library to performe phasor analysis in microscopy images
+Home-page: https://github.com/bschuty
+Author: Bruno Schuty Teske
+Author-email: schutyteske@gmail.com
+License: MIT
+Description: This is a library to performe phasor analysis with microscopy images.
+        #long description coming soon 
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
