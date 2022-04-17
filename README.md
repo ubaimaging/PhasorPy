@@ -108,7 +108,7 @@ membrane environmental probes: A comparison of the spectral phasor and
 generalized polarization approaches. Methods Appl. Fluoresc. 3, 047001 (2015).
 ## Used By
 
-This project is used:
+This project is used and maintain by:
 
 - Advance Bioimaging Unit at Institt Pasteur Montevideo and 
   Universidad de la República
