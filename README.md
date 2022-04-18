@@ -11,10 +11,9 @@ approach. Thus it is becoming a key player in democratizing access to FLIM and H
 
 PhasorPy library is based on SimFCS, a software developed 
 by Enrico Gratton at the Laboratory for Fluorescence Dynamic,
-University of California, Irvine. It is intended to adapt from the SimFCS 
-the FLIM and HSI modules that enable handling traditional (fitting) 
-and Phasor-based analysis to an open-source code and, most importantly, 
-supported by a community that will guarantee its sustainability.
+University of California, Irvine. PhasorPy is a library for FLIM and HSI data analysis 
+using the phasor approach. The phasor approach was developed as model free method 
+and relies on the fourier transform properties.
 
 
 
