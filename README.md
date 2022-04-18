@@ -1,4 +1,3 @@
-![Logo](https://github.com/bschuty/PhasorPy/blob/main/Figures/simfcs.png)
 
 # PhasorPy: A Python library for phasor analysis
 
