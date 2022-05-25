@@ -1,5 +1,5 @@
 
-# PhasorPy: A Python library for phasor analysis
+# phasorPy: A Python library for phasor analysis
 
 Time-resolved (FLIM) and hyperspectral imaging (HSI) have become paramount 
 in biomedical science. The power of the combination between traditional 
