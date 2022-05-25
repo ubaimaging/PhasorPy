@@ -3,11 +3,11 @@ from setuptools import find_packages, setup
 
 HERE = pathlib.Path(__file__).parent
 
-VERSION = '0.0.2'
+VERSION = '1.0.2'
 PACKAGE_NAME = 'PhasorPy'
 AUTHOR = 'Bruno Schuty Teske'
 AUTHOR_EMAIL = 'schutyteske@gmail.com'
-URL = 'https://github.com/bschuty'
+URL = 'https://github.com/ubaimaging/phasorPy'
 
 LICENSE = 'MIT'
 DESCRIPTION = 'This is a library to performe phasor analysis in microscopy images'
