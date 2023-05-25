@@ -56,11 +56,10 @@ Malacrida et al. 1.
 ### Phasor and Pseudocolor representation
 
 Obtain the phasor plot. From the average intensity image users can obtain 
-the cutoff intensity in orther to clean up the background. Having a much cleaer 
-phasor representation. 
+the cutoff intensity in order to remove the background.  
 
-Its also allows users to get the pseudocolor RGB image rom the phasor, 
-with three components.
+Its also allows users to get the pseudocolor RGB image from the phasor, 
+using three components.
 
 ![fig1](https://github.com/bschuty/PhasorPy/blob/main/Figures/Figure_1.png)
 
@@ -92,11 +91,7 @@ To obtain the component percentage between two components and visualize its hist
 
 ## Contributing
 
-Contributions are always very well welcome. The PhasorPy library intends 
-to create an open-source and collaborative community between spectroscopy 
-and fluorescence microscopy users with the same functionalities as SimFCS 
-but accessible and self-sustainable in the long term as other Python 
-libraries and communities. 
+We welcome all contributions to the PhasorPy library. We aim to create a collaborative and open-source community that develops spectroscopy and fluorescence microscopy analysis tools. We aim to promote self-sustainability in the long term, similar to other Python libraries and communities while ensuring broad access to these tools.
 
 
 ## References
@@ -108,6 +103,5 @@ generalized polarization approaches. Methods Appl. Fluoresc. 3, 047001 (2015).
 
 This project is used and maintain by:
 
-- Advance Bioimaging Unit at Institt Pasteur Montevideo and 
-  Universidad de la República
+- Advanced Bioimaging Unit a joint initiative between the Institut Pasteur de Montevideo and Universidad de la República, Uruguay.
 
