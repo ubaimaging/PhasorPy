@@ -1,19 +1,10 @@
 
 # PhasorPy: A Python library for phasor analysis
 
-Time-resolved (FLIM) and hyperspectral imaging (HSI) have become paramount 
-in biomedical science. The power of the combination between traditional 
-imaging and spectroscopy opens the possibility to address information 
-inaccessible before. For bioimaging analysis of these data, the Phasor 
-plots are a tool revolutionizing the field because of their straightforward 
-approach. Thus it is becoming a key player in democratizing access to FLIM and HSI
+The significance of time-resolved (FLIM) and hyperspectral imaging (HSI) in biomedical science cannot be overstated. Traditional imaging and spectroscopy fusion have unlocked new and previously inaccessible data. The Phasor plots have emerged as a revolutionary tool for bioimaging analysis due to their straightforward approach. Consequently, it has been instrumental in democratizing access to FLIM and HSI, making it a crucial player in the field.
 
 
-PhasorPy library is based on SimFCS, a software developed 
-by Enrico Gratton at the Laboratory for Fluorescence Dynamic,
-University of California, Irvine. PhasorPy is a library for FLIM and HSI data analysis 
-using the phasor approach. The phasor approach was developed as model free method 
-and relies on the fourier transform properties.
+The PhasorPy library is built upon SimFCS, a program created by Enrico Gratton at the Laboratory for Fluorescence Dynamics at the University of California, Irvine. This library is designed for FLIM and HSI data analysis, utilizing the phasor technique, which is a model-free method that relies on the Fourier transform properties.
 
 
 
@@ -34,14 +25,7 @@ angle and the modulus (M) given the coordinates G and S.
 
 ![eq2](https://github.com/bschuty/PhasorPy/blob/main/Figures/equation_spectral_mp.png)
 
-The angular position in the spectral phasor plot relates to the center of mass of 
-the emission spectrum and the modulus depends on the spectrum’s full width at 
-the half maximum (FWHM). For instance, if the spectrum is broad its location 
-should be close to the center. Otherwise, if there is a red shift in the spectrum,
-its location will move counterclockwise toward increasing angle from position
-(1, 0). Spectral phasors have the same vector properties as lifetime phasors. 
-A detailed description of the spectral phasor plot properties can be found in 
-Malacrida et al. 1. 
+The angular position in the spectral phasor plot represents the emission spectrum's center of mass, while the spectrum's full width determines the modulus at half maximum (FWHM). If the spectrum is broad, its location should be near the center. However, if there is a red shift in the spectrum, its location will move counterclockwise towards the increasing angle from position (1, 0). The properties of spectral phasor plots are similar to those of lifetime phasors. To learn more about the specifics of spectral phasor plot properties, refer to Malacrida et al. 1.
 
 
 ## Installation
@@ -103,5 +87,5 @@ generalized polarization approaches. Methods Appl. Fluoresc. 3, 047001 (2015).
 
 This project is used and maintain by:
 
-- Advanced Bioimaging Unit a joint initiative between the Institut Pasteur de Montevideo and Universidad de la República, Uruguay.
+- Advanced Bioimaging Unit is a joint initiative between the Institut Pasteur de Montevideo and Universidad de la República, Uruguay.
 
