@@ -65,7 +65,7 @@ To obtain the component percentage between two components and visualize its hist
 
 ## Authors
 
-- [@bschuty](https://www.github.com/bschuty)
+- [@schutyb](https://github.com/schutyb)
 
 
 ## License
